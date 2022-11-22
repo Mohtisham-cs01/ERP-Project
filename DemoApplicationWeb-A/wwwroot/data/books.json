@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "oppo",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryKhqoNcoEyao7ZzR_qdH36ExoOtd2TjSEw&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "vivo",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryKhqoNcoEyao7ZzR_qdH36ExoOtd2TjSEw&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "name": "samsung s11",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryKhqoNcoEyao7ZzR_qdH36ExoOtd2TjSEw&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "samsung s21",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryKhqoNcoEyao7ZzR_qdH36ExoOtd2TjSEw&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "iphone 11",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryKhqoNcoEyao7ZzR_qdH36ExoOtd2TjSEw&usqp=CAU"
+  }
+
+]
